@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yazidsupriadi)](https://github.com/yazidsupriadi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazidsupriadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
