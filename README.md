@@ -6,8 +6,8 @@ Hello!, My name is Muhammad Yazid Supriadi . You can call me Yazid. Glad to see 
 - Here are some ideas to get you started:
 
  - 🔭 I’m currently studying for a bachelor at STT Terpadu Nurul Fikri
- - 🌱 I’m currently learning Python,Machine Learning
- - 👯 I’m looking to collaborate on python, Web Programming
+ - 🌱 I’m currently learning Mobile Development,Machine Learning
+ - 👯 I’m looking to collaborate on Mpbile Development, Web Programming, and Machine Learning
  - 💬 Ask me about python,kotlin,laravel
  - 📫 How to reach me: you can reach me by email : yazidsupriadi14@gmail.com
  - ⚡ Fun fact: i'm just addicted on learning new things 
